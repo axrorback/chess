@@ -4,3 +4,6 @@ game/migrations
 docker-compose.yml
 Dockerfile
 data.csv
+db.sqlite3
+.env
+.idea
