@@ -7,3 +7,4 @@ data.csv
 db.sqlite3
 .env
 .idea
+users/migrations/*
